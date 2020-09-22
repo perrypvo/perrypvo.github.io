@@ -12,3 +12,6 @@ This repository contains mainly notes from learning Apache Spark by [Perry Vo](h
 + [RDD Basics](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/PySpark_Cheat_Sheet_Python.pdf)
 + [DataFrame Basics](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/PySpark_SQL_Cheat_Sheet_Python.pdf)
 + [Apache Spark Cheat Sheet](https://hackr.io/tutorials/learn-apache-spark)
+
+Microsoft Learning paths for Data Engineering:
+https://github.com/solliancenet/microsoft-learning-paths-databricks-notebooks/tree/master/data-engineering/DBC
