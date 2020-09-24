@@ -33,3 +33,7 @@ Dataproc should be used if the processing has any dependencies to tools in the H
 
 Portability
 Dataflow/Beam provides a clear separation between processing logic and the underlying execution engine. This helps with portability across different execution engines that support the Beam runtime, i.e. the same pipeline code can run seamlessly on either Dataflow, Spark or Flink.
+
+# Dataflow Templates
+http://github.com/GoogleCloudPlatform/DataflowTemplates
+
